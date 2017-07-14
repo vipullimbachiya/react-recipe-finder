@@ -1,0 +1,1 @@
+Simple recipie finder using Group Recipie API made with react-redux
